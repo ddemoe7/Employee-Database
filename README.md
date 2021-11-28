@@ -1,5 +1,6 @@
 # Employee Database
 SQL Exercise - Employee Database: A Mystery in Two Parts
+<br>
 <i>(sql-challenge)</i>
 
 ## Background
