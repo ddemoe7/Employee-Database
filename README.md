@@ -1,5 +1,6 @@
-# sql-challenge
+# Employee Database
 SQL Exercise - Employee Database: A Mystery in Two Parts
+<i>(sql-challenge)</i>
 
 ## Background
 As a new data engineer at Pewlett Hackard, you are tasked with a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
